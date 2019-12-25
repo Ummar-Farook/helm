@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  yunar-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2019-12-26T00:46:51.298634+05:30"
+    description: A Helm chart for Kubernetes
+    digest: df6265678b130dadffbba9f7fa52701ce0a373790ca4b4f37439d0f2e964910c
+    name: yunar-app
+    type: application
+    urls:
+    - https://ummar-farook.github.io/helm/yunar-app-0.1.0.tgz
+    version: 0.1.0
+  yunar-mongo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2019-12-26T00:46:51.301648+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 850ed2b6e975ceae75faa865b6a41ad292ba35818de4aed9d88beb66324a02c1
+    name: yunar-mongo
+    type: application
+    urls:
+    - https://ummar-farook.github.io/helm/yunar-mongo-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-26T00:46:51.292628+05:30"
